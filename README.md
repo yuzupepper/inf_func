@@ -18,7 +18,7 @@ It outputs result/model.npz.
 2. calculate influence function and output influential example
 
 ```
-python inf_func.py -m result/train_model [--dont_log]
+python inf_func.py -m result/model.npz [--dont_log]
 ```
 
 It outputs result/model.npz_image.png.
