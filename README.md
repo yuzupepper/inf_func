@@ -24,3 +24,5 @@ python inf_func.py -m result/model.npz [--dont_log]
 It outputs result/model.npz_image.png.
 
 result/model.npz_image.png
+
+![output_example](https://github.com/yuzupepper/inf_func/blob/master/output_example.jpg)
